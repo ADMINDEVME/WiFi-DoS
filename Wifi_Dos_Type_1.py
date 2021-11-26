@@ -54,7 +54,7 @@ print(r"""
 
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-print("\n**********************************************************************************")
+print("\n***************************************************************")
 
 
 # If the user doesn't run the program with super user privileges, don't allow them to continue.
