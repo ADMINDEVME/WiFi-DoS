@@ -50,7 +50,7 @@ print(r"""
 \_| |_/ \_| \_/  \___/  \_| \_/   \_/   \_|  |_/  \___/   \___/  \____/ """)
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
-print("\n*************************************************************************")
+print("\n***************************************************************************")
 
 # If the user doesn't run the program with super user privileges, don't allow them to continue.
 if not 'SUDO_UID' in os.environ.keys():
